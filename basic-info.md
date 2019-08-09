@@ -1,5 +1,4 @@
 # about-me
-Micah Nissly
 I am a 21 year old college student studying Mechanical Engineering at the University of Maryland, Baltimore County (UMBC) <br/>
 ------------------------------------------------------------------------------------------------------------------------------------ <br/>
 Interests: <br/>
